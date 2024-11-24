@@ -20,3 +20,6 @@ O script `download_lattes.py` é responsável pela realização do download dos 
 Após efetuar o download dos 1.068 currículos lattes, um script python foi desenvolvido utilizando expressões regulares para realizar a extração das informações mais relevantes de cada currículo, como nome do professor, resumo, foto do professor e linhas de pesquisa. Após extração, o script estrutura essas informações em um arquivo JSON. 
 
 O script `extrair_info_oficial_com_re.py` é responsável pela extração dessas informações dos currículos.
+
+## Observação
+Este trabalho foi realizado para a disciplina de “Aprendizado Profundo” do Programa de Pós-Graduação em Ciência da Computação (PPGCC) da Unesp, ministrada pelo Prof. Dr. Denis Henrique Pinheiro Salvadeo.
